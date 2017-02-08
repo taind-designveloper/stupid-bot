@@ -1,0 +1,16 @@
+{
+  "name": "talent-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "MICROSOFT_APP_ID=3eafa506-ff07-4aaf-a4e0-b5ce896e7d23 MICROSOFT_APP_PASSWORD=jjABWChDf4mf8WtFcuT0VEw node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.6.0",
+    "restify": "^4.3.0"
+  }
+}
